@@ -58,7 +58,10 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **Enumerable**
+- **Enumerable methods**
+  - **all?**
+  - **any?**
+  - **filter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
