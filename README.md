@@ -204,7 +204,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-would like to thanks Microverse corporation for the README template.
+We would like to thanks Microverse corporation for the README template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
